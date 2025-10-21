@@ -1,0 +1,14 @@
+{
+  "name": "km-titles-headings-paragraphs",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --reporters default --reporters jest-summarizing-reporter"
+  },
+  "dependencies": {
+    "puppeteer": "^19.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.2.1",
+    "jest-summarizing-reporter": "^1.1.4"
+  }
+}
